@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "471876553617",
+    "firebase_url": "https://best-af37e-default-rtdb.firebaseio.com",
+    "project_id": "best-af37e",
+    "storage_bucket": "best-af37e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471876553617:android:363acb4960572d6f786830",
+        "android_client_info": {
+          "package_name": "com.example.best"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471876553617-5kv7uuuqubueqvueuvoj99vc25fldkcn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.best",
+            "certificate_hash": "8fc7e1d44cb918d77a3ce3ef29d93a66f91d15fa"
+          }
+        },
+        {
+          "client_id": "471876553617-b7g6pai1o5r4b2t92kquq3ag77gsjhsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFwHSpsylngNG2pF98aM5V_FHseM4kiHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471876553617-b7g6pai1o5r4b2t92kquq3ag77gsjhsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abril_fatface</item>
+        <item>@font/andada</item>
+        <item>@font/archivo_black</item>
+        <item>@font/asap_bold</item>
+        <item>@font/bigshot_one</item>
+        <item>@font/biryani_semibold</item>
+        <item>@font/bungee_inline</item>
+        <item>@font/candal</item>
+        <item>@font/days_one</item>
+        <item>@font/goblin_one</item>
+        <item>@font/hind_madurai_bold</item>
+        <item>@font/keania_one</item>
+        <item>@font/rubik_mono_one</item>
+    </array>
+</resources>
